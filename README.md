@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hello There 👋, I'm Avinash Agrawal</h1>
 <h3 align="center">A passionate Software Developer and Coding Enthusiast from India</h3>
-<img align="right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN3emMwZjZjMzhpYmozbTc2ZzV1cXB3bXpseDEwYm15ODN5cmIydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash0308&label=Profile%20views&color=0e75b6&style=flat" alt="avinash0308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash0308" alt="avinash0308" /></a> </p>
