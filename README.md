@@ -4,7 +4,9 @@
 <img align="right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN3emMwZjZjMzhpYmozbTc2ZzV1cXB3bXpseDEwYm15ODN5cmIydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash0308&label=Profile%20views&color=0e75b6&style=flat" alt="avinash0308" /> </p>
 
-<p align="left"> <a href="https://twitter.com/avinash agrawal" target="blank"><img src="https://img.shields.io/twitter/follow/avinash agrawal?logo=twitter&style=for-the-badge" alt="avinash agrawal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash0308" alt="avinash0308" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/avinash03082003" target="blank"><img src="https://img.shields.io/twitter/follow/avinash03082003?logo=twitter&style=for-the-badge" alt="avinash03082003" /></a> </p>
 
 - 🔭 I’m currently working on [MediStop - One Stop For All Medineeds](https://medistoprender.onrender.com/login)
 
@@ -16,22 +18,22 @@
 
 - 📫 How to reach me through LinkedIn **https://www.linkedin.com/in/avinash-agrawal-397b0a206/**
 
-- 📄 Know about my experiences [file:///C:/Users/tulsi/OneDrive/Documents/Resume/Avinash%20Agrawal%20CV.pdf](file:///C:/Users/tulsi/OneDrive/Documents/Resume/Avinash%20Agrawal%20CV.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop)
 
 - ⚡ Fun fact **Even I don't Know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avinash agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash agrawal" height="30" width="40" /></a>
+<a href="https://twitter.com/avinash03082003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash03082003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avinash agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash agrawal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avinash agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avinash agrawal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@avinashagrawal9045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@avinashagrawal9045" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avi0308" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avi0308" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avinash agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avinash agrawal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@tulsiagrawal2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tulsiagrawal2003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/avi0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avi0308" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avinash agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash agrawal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/avinash_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash_agrawal" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@tulsiagrawal2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tulsiagrawal2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/avinash004k9/https://auth.geeksforgeeks.org/user/avinash004k9/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9/https://auth.geeksforgeeks.org/user/avinash004k9/practice" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5v9ETyyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5v9ETyyk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/avinash004k9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avinash004k9" height="30" width="40" /></a>
+<a href="https://discord.gg/https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
