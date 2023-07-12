@@ -2,7 +2,7 @@
 <h1 align="center">Hello There 👋, I'm Avinash Agrawal</h1>
 <h3 align="center">A passionate Software Developer and Coding Enthusiast from India</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=avinash0308&label=Profile%20views&color=0e75b6&style=flat" alt="avinash0308" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash0308&label=Profile%20views&color=0e75b6&style=flat" alt="avinash0308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash0308" alt="avinash0308" /></a> </p>
 
