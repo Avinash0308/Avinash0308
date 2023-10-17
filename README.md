@@ -18,7 +18,7 @@
 
 - 📫 How to reach me through LinkedIn **https://www.linkedin.com/in/avinash-agrawal-397b0a206/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/avinash-agrawal-397b0a206_aviresume-activity-7072461436161056770-lldA?utm_source=share&utm_medium=member_desktop)
+- 📄 Know about my experiences: https://aviport.netlify.app/
 
 - ⚡ Fun fact **Even I don't Know**
 
