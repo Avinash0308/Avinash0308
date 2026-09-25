@@ -15,7 +15,7 @@
 - 🌱 I’m currently focusing on **System Design, Cloud Technologies, and Full-Stack Architecture**.
 - 💬 Ask me about **Data Structures, Algorithms, and scalable Web Development**.
 - 📫 Reach me via LinkedIn: **[Avinash Agrawal](https://www.linkedin.com/in/avinash-agrawal-397b0a206/)**
-- 📄 View my full portfolio and resume: **[aviport.netlify.app](https://aviport.netlify.app/)** *(or my new Vercel domain!)*
+- 📄 View my full portfolio and resume: **[avinashagrawal.vercel.app](https://avinashagrawal.vercel.app/)**
 
 <br>
 
